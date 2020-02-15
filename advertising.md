@@ -74,6 +74,7 @@ Ordered by server count as of October 11, 2019.
 
 * [DSC](https://discordbots.org/bot/415773861486002186) (3218 servers, 2 hour bump interval)
 * [Bump Central](https://discordbots.org/bot/478290034773196810) (2412 servers, 1 hour bump interval)
+* [Liam](https://top.gg/bot/389604896606781440) (2100 servers, 1 hour bump interval)
 * [Open Bump](https://top.gg/bot/546999467887427604) (1180 servers, 1 hour bump interval)
 * [HaileyBot](https://discordbots.org/bot/423637161632464906) (1096 servers, 2 hour bump interval)
 * [PYS Bump](https://top.gg/bot/614970561977909251) ( 467 servers, 2 hour bump interval)
@@ -85,7 +86,7 @@ Aside from websites and bot-served servers. Please note that servers may require
 
 I will update this list **on request only**.
 
-* [Advertise Your Server](https://discord.gg/RrjdrGQ)
+* [Advertise Your Server](https://discord.gg/kauky9w)
 * [Discord Advertising](https://discord.gg/qHACJg3)
 * [Discord Growth Portal](https://discord.gg/AG992Gc)
 * [Discord Portal](https://discord.gg/KmZETQW)
@@ -108,6 +109,7 @@ Sorted by sub count as of April 16, 2018. Except the listed ones, all others are
 * [/r/nsfwDiscords](https://www.reddit.com/r/nsfwDiscords/) (1461 subs, and as the name says, it's **NSFW**)
 * [/r/DiscordAppServers](https://www.reddit.com/r/DiscordAppServers/) (683 subs)
 * [/r/MakeDiscordFriends](https://www.reddit.com/r/MakeDiscordFriends/) (329 subs)
+* [r/AdvertiseYourServer](https://www.reddit.com/r/advertiseyourserver) (200 subs)
 
 ## Free guilds for your Discord bot!
 Use [BotBlock](https://botblock.org/) to find bot lists.
